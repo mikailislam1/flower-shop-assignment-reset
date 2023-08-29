@@ -138,6 +138,7 @@ margin-bottom: 20px;
 /* section insta style */
 .insta{
     background: #FFF;
+    margin-bottom: 70px;
 }
 .insta-info{
     align-items: center;
@@ -157,6 +158,32 @@ margin-bottom: 20px;
     display: flex;
     justify-content: space-around;
     padding: 0px 50px;
+}
+/* bonus section style */
+.bonus-content{
+    width: 880px;
+    height: 400px;
+    background-color: bisque;
+    margin: auto;
+    border-radius: 8px;
+}
+.bonus-message{
+    text-align: center;
+    padding-top: 50px;
+    color: #272727;
+}
+.take-love{
+    display: flex;
+    justify-content: space-around;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+#wish{
+    color: #E55473;
+    padding-top: 100px;
+}
+#beauty{
+    color: #E55473;
 }
 .last-section{
     border-radius: 8px;
